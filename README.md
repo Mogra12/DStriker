@@ -1,4 +1,3 @@
-````markdown
 # DStriker 🔍📂
 
 A simple directory brute-force tool developed in C++ for educational purposes and authorized web application security testing.
